@@ -1,23 +1,59 @@
 // Personal Information --> #hero section
-export const name = "Peter Griffin"
-export const designation = "Safety Inspector"
-export const location = "Quahog, Rhode Island"
+export const name = "Alberto Chesa Tierz"
+export const designation = "Bussiness Analyst"
+export const location = "Huesca, Spain"
 export const pronouns = "he/him"
-export const website = "https://petergriffin.com"
+export const website = "https://albertochesa.com"
 
 // About
-export const about = "An adventurous man working as a safety inspector with a quirky sense of humor. Husband to Louis Griffin. Father of Chris, Brian, and Stewie."
+export const about = "I am a seasoned Software Analyst with over 10 years of experience in software development and business analysis. My passion lies in bridging the gap between technical teams and business needs, ensuring that every project I work on delivers measurable results."
 
 // Work Experience --> #work section
 export const work = [
 	{
-		from: "2001",
+		from: "December 2018",
 		to: "Present",
-		role: "Safety Inspector",
-		org: "Quahog Safety Department",
-		org_url: "https://quahog.gov/safety",
-		location: "Quahog, Rhode Island",
-		skills: "Safety Inspection, Risk Assessment, Emergency Response"
+		role: "Senior Delivery Consultant",
+		org: "Deloitte Spain",
+		org_url: "https://www.deloitte.com/es/es/offices/spain-offices/huesca.html",
+		location: "Huesca, Spain",
+		skills: "Business analysis and requirements gathering. User story creation and Agile methodologies. Multidisciplinary team collaboration. Project management in high-pressure environments."
+	},
+	{
+		from: "August 2017",
+		to: "December 2018",
+		role: "Software Analyst",
+		org: "Hiberus Technology",
+		org_url: "https://www.hiberus.com/",
+		location: "Zaragoza, Spain",
+		skills: "Software development for healthcare management systems. Problem-solving in complex systems. Application of Microsoft technologies."
+	},
+	{
+		from: "June 2016",
+		to: "August 2017",
+		role: "Head of Development Department",
+		org: "ALC Informática. Intersport.",
+		org_url: "https://www.intersport.es/",
+		location: "Huesca, Spain",
+		skills: "Team leadership and interdepartmental communication. Technical supervision and mentoring. Strategic planning and project coordination."
+	},
+	{
+		from: "May 2012",
+		to: "May 2016",
+		role: "Senior Developer",
+		org: "ALC Informática. Intersport.",
+		org_url: "https://www.intersport.es/",
+		location: "Huesca, Spain",
+		skills: "Web platform development, CMS design, technology migration, backend development, Microsoft tools."
+	},
+	{
+		from: "April 2008",
+		to: "April 2012",
+		role: "Web Developer",
+		org: "Webdreams. Intersport.",
+		org_url: "https://www.wdreams.com/",
+		location: "Huesca, Spain",
+		skills: "Web application development, CMS creation, payment gateway integration, frontend and backend programming."
 	}
 ]
 
