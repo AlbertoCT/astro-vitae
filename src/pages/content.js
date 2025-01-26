@@ -60,29 +60,53 @@ export const work = [
 // Projects --> #project section
 export const projects = [
 	{
-		from: "2023",
+		from: "2021",
 		to: "Present",
-		title: "Project Griffin",
-		description: "A project to improve safety standards in Quahog by implementing innovative safety measures.",
-		url: "https://projectgriffin.com",
-		tech: "Safety Equipment, Training Programs, Community Outreach",
-	},
-	{
-		from: "2023",
-		to: "2022",
-		title: "Family Safety Campaign",
-		description: "An initiative to promote safety awareness among families in Quahog.",
-		url: "https://safefamilyquahog.com",
-		tech: "Workshops, Educational Material, Public Events",
+		title: "International Business Analysis Project",
+		description: "Business requirement gathering and transformation into actionable user stories for international development teams.",
+		url: "",
+		tech: "Business analysis, Agile methodologies, user story creation, teamwork, communication"
 	},
 	{
 		from: "2020",
-		to: "2021",
-		title: "Road Safety Initiative",
-		description: "A campaign to enhance road safety and reduce accidents in Quahog.",
-		url: "https://roadsafetyquahog.com",
-		tech: "Traffic Analysis, Signage Improvement, Public Awareness",
-	}
+		to: "2020",
+		title: "Online Tools for Education Department (Aragón)",
+		description: "Development of online tools to facilitate administrative procedures during the COVID-19 crisis.",
+		url: "",
+		tech: "Project management, client support, software development, incident resolution"
+	},
+	{
+		from: "2018",
+		to: "2018",
+		title: "SharePoint Management Platform for Abu Dhabi Ministry of Labor",
+		description: "Development of a management platform for employee administration using SharePoint.",
+		url: "",
+		tech: "SharePoint development, Microsoft technologies, system integration"
+	},
+	{
+		from: "2017",
+		to: "2018",
+		title: "Healthcare Management System for MAZ",
+		description: "Development of an internal application for hospital and health center management.",
+		url: "",
+		tech: "Software development, problem-solving, Microsoft tools, healthcare systems"
+	},
+	{
+		from: "2015",
+		to: "2015",
+		title: "CMS for Intersport’s Physical Stores",
+		description: "Modernization and migration of the CMS for nationwide physical store management.",
+		url: "",
+		tech: "CMS design, system migration, backend development, retail system management"
+	},
+	{
+		from: "2013",
+		to: "2013",
+		title: "Web Platform for Retail Product Launch Events",
+		description: "Development of a web platform to manage and showcase product launches across Spain.",
+		url: "",
+		tech: "Web development, frontend and backend programming, event management systems"
+	}	
 ]
 
 // Education --> #education section
