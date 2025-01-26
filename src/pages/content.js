@@ -60,24 +60,24 @@ export const work = [
 // Projects --> #project section
 export const projects = [
 	{
-		from: "2021",
+		from: "2020",
 		to: "Present",
-		title: "International Business Analysis Project",
+		title: "BSH. International Business Analysis Project",
 		description: "Business requirement gathering and transformation into actionable user stories for international development teams.",
 		url: "",
 		tech: "Business analysis, Agile methodologies, user story creation, teamwork, communication"
 	},
 	{
-		from: "2020",
+		from: "2019",
 		to: "2020",
-		title: "Online Tools for Education Department (Aragón)",
+		title: "GIR. Online Tools for Education Department (Aragón)",
 		description: "Development of online tools to facilitate administrative procedures during the COVID-19 crisis.",
 		url: "",
 		tech: "Project management, client support, software development, incident resolution"
 	},
 	{
 		from: "2018",
-		to: "2018",
+		to: "2019",
 		title: "SharePoint Management Platform for Abu Dhabi Ministry of Labor",
 		description: "Development of a management platform for employee administration using SharePoint.",
 		url: "",
@@ -92,45 +92,53 @@ export const projects = [
 		tech: "Software development, problem-solving, Microsoft tools, healthcare systems"
 	},
 	{
-		from: "2015",
-		to: "2015",
-		title: "CMS for Intersport’s Physical Stores",
+		from: "2013",
+		to: "2017",
+		title: "GNET. CMS for Intersport’s Physical Stores",
 		description: "Modernization and migration of the CMS for nationwide physical store management.",
 		url: "",
 		tech: "CMS design, system migration, backend development, retail system management"
 	},
 	{
-		from: "2013",
-		to: "2013",
+		from: "2012",
+		to: "2016",
 		title: "Web Platform for Retail Product Launch Events",
 		description: "Development of a web platform to manage and showcase product launches across Spain.",
 		url: "",
 		tech: "Web development, frontend and backend programming, event management systems"
-	}	
+	},
+	{
+		from: "2008",
+		to: "2012",
+		title: "Various Web Development Projects",
+		description: "Developed web applications for businesses such as ski resorts, newspapers, and spare parts suppliers.",
+		url: "",
+		tech: "Web development, CMS creation, e-commerce systems, frontend and backend programming"
+	}
 ]
 
 // Education --> #education section
 export const education = [
 	{
-		from: "1995",
-		to: "1999",
-		institute: "Quahog High School",
-		course: "High School Diploma",
-		location: "Quahog, Rhode Island"
+		from: "2023",
+		to: "Present",
+		institute: "Universitat Oberta de Catalunya",
+		course: "Bachelor's Degree in Computer Engineering",
+		location: "Online"
 	},
 	{
-		from: "1999",
-		to: "2003",
-		institute: "Quahog Community College",
-		course: "Bachelor of Science in Safety Management",
-		location: "Quahog, Rhode Island"
+		from: "2006",
+		to: "2008",
+		institute: "IES Sierra de Guara",
+		course: "Higher Technician in Application Development",
+		location: "Huesca, Spain"
 	},
 	{
-		from: "2003",
+		from: "2000",
 		to: "2005",
-		institute: "Safety University",
-		course: "Master of Science in Safety Engineering",
-		location: "Boston, Massachusetts"
+		institute: "University of Zaragoza",
+		course: "ITIS (Information Technology and Systems). Not finished",
+		location: "Zaragoza, Spain"
 	}
 ]
 
@@ -138,15 +146,15 @@ export const education = [
 export const contact = [
 	{
 		source_name: "Email",
-		source: "peter.griffin@example.com",
+		source: "alberto.chesa.tierz@gmail.com",
 	},
 	{
 		source_name: "Twitter",
-		source: "https://twitter.com/PeterGriffin",
+		source: "https://twitter.com/AlbertoCHTi",
 	},
 	{
 		source_name: "LinkedIn",
-		source: "https://www.linkedin.com/in/peter-griffin",
+		source: "https://www.linkedin.com/in/albertochesa/",
 	},
 ]
 
@@ -154,27 +162,21 @@ export const contact = [
 
 export const certificates = [
 	{
-		issued: "2005",
-		title: "Certified Safety Inspector",
-		org: "National Safety Association",
-		url: "https://certi.com/url",
-		description: "Certification in safety inspection and risk assessment.",
+		issued: "2023",
+		title: "Professional Scrum Product Owner I (PSPO I)",
+		org: "Scrum.org",
+		url: "https://www.scrum.org/user/1034549",
+		description: "Certification demonstrating expertise in product ownership and Agile methodologies."
 	},
 	{
-		issued: "2006",
-		title: "Emergency Response Training",
-		org: "Quahog Safety Department",
-		url: "https://certi.com/url",
-		description: "Training in handling emergency situations and crisis management.",
-	},
-	{
-		issued: "2007",
-		title: "Safety Leadership Workshop",
-		org: "Safety Leaders International",
-		url: "https://certi.com/url",
-		description: "Leadership training in safety management and communication.",
+		issued: "2020",
+		title: "Microsoft Certified: Azure Fundamentals (AZ-900)",
+		org: "Microsoft",
+		url: "https://learn.microsoft.com/en-us/certifications/azure-fundamentals/",
+		description: "Fundamental certification in Azure cloud concepts, services, and management tools."
 	}
 ]
+
 
 // Blogs --> #blogs section
 export const blogs = [
@@ -197,23 +199,29 @@ export const blogs = [
 // Achievements --> #achievement section
 export const achievements = [
 	{
-		title: "Safety Hero Award",
+		title: "Key Contributor to International Agile Project",
+		year: "2021",
+		description: "Acknowledged for successfully leading business requirement analysis and user story creation in a complex international project."
+	},
+	{
+		title: "Digital Transformation for Education Department",
 		year: "2020",
-		decription: "Recognized for outstanding contributions to improving safety standards in Quahog."
+		description: "Played a pivotal role in developing online tools that facilitated administrative procedures during the COVID-19 pandemic."
 	},
 	{
-		title: "Safety Innovation Prize",
+		title: "Successful SharePoint Implementation",
 		year: "2018",
-		decription: "Awarded for implementing innovative safety measures that yielded significant improvements."
+		description: "Recognized for the delivery of a robust SharePoint management platform for the Abu Dhabi Ministry of Labor."
 	},
 	{
-		title: "Community Safety Ambassador",
+		title: "CMS Modernization for Intersport",
 		year: "2015",
-		decription: "Honored for promoting safety awareness and education in the Quahog community."
+		description: "Led the migration and modernization of the CMS for nationwide physical store management, increasing operational efficiency."
 	},
 	{
-		title: "Safety Campaign Excellence",
-		year: "2013",
-		decription: "Acknowledged for leading a successful safety campaign that reached thousands of residents."
+		title: "Web Development Excellence",
+		year: "2012",
+		description: "Delivered high-impact web applications for diverse businesses, including ski resorts, newspapers, and e-commerce platforms."
 	}
 ]
+
